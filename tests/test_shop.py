@@ -1,5 +1,5 @@
 """
-UI test for test.qa.studio
+UI test for test.qa.studio 
 """
 import pytest
 from selenium.webdriver.common.by import By
